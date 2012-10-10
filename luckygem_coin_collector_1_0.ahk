@@ -21,10 +21,10 @@ loop, {
 	money := 4000
 	
 	; time between money collected (seconds)
-	count := 7200
+	count := 3600
 
 	; time delay for first run (seconds)
-	firstrun := 3270
+	firstrun := 1
 
 	; ---------------------------------------------------------------------------------------------
 
